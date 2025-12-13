@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: N.S. Ghattas books
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to the official N.S. Ghattas website for all complete works.
