@@ -1,6 +1,6 @@
 ---
 title: N.S. Ghattas books
-enableToc: "false"
+aliases:
 ---
 
 Welcome to the official N.S. Ghattas website for all complete works.
